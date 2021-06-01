@@ -1,6 +1,6 @@
 # JoyThermalCam
 A pocket thermal camera on Adafruit feather ESP32
-
+![What the monster looks like](https://user-images.githubusercontent.com/60669698/120387344-c99aad00-c2f7-11eb-82db-c4f8cf91bbc0.png)
 
 ## Hardware:
 - [Assembled Adafruit HUZZAH32 – ESP32 Feather Board](https://www.adafruit.com/product/3619)
@@ -16,7 +16,6 @@ A pocket thermal camera on Adafruit feather ESP32
   - time interval, 
   - manual
 - A very simple GUI menu system
-  - ![Camera menu](https://user-images.githubusercontent.com/60669698/120387184-92c49700-c2f7-11eb-8992-50cc8f98625a.png)
 - Generates images as preformatted numpy arrays as strings
 - Includes a python script to convert output arrays into image files
 
