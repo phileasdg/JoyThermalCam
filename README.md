@@ -1,5 +1,6 @@
 # JoyThermalCam
 A pocket thermal camera on Adafruit feather ESP32
+
 ![What the monster looks like](https://user-images.githubusercontent.com/60669698/120387344-c99aad00-c2f7-11eb-82db-c4f8cf91bbc0.png)
 
 ## Hardware:
